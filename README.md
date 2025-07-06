@@ -25,6 +25,9 @@ AI Recruit is a comprehensive recruitment platform that leverages artificial int
 - **🌙 Dark Mode Support**: Modern UI with light/dark theme switching
 - **📱 Responsive Design**: Optimized for desktop, tablet, and mobile devices
 
+
+<img width="593" alt="Screenshot 2025-06-26 000954" src="https://github.com/user-attachments/assets/e80bdefb-4194-41cc-a353-3091ff75c696" />
+
 ## 🏗️ Architecture
 
 ### Frontend (React + Vite)
@@ -155,7 +158,6 @@ npm start
 4. **Performance Insights**: Receive detailed feedback and recommendations
 
 <img width="728" alt="Screenshot 2025-06-26 000915" src="https://github.com/user-attachments/assets/e4373958-f42b-4f62-9602-ce1faaa6c2f2" />
-<img width="593" alt="Screenshot 2025-06-26 000954" src="https://github.com/user-attachments/assets/e80bdefb-4194-41cc-a353-3091ff75c696" />
 <img width="719" alt="Screenshot 2025-06-26 001015" src="https://github.com/user-attachments/assets/425f535c-e10a-4624-929c-3cb4b2f21d64" />
 
 
