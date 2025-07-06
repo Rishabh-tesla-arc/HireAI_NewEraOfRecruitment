@@ -284,6 +284,3 @@ npm start
 - [ ] CDN integration
 - [ ] Load balancing
 - [ ] Microservices architecture
-
-
-### Platform 
