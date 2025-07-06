@@ -1,3 +1,4 @@
+<img width="946" alt="Screenshot 2025-06-26 000846" src="https://github.com/user-attachments/assets/95f658fc-1461-4a78-9de5-61bc220dcafd" />
 # AI Recruit - Intelligent Resume Parsing & Recruitment Platform
 
 [![React](https://img.shields.io/badge/React-19.0.0-blue.svg)](https://reactjs.org/)
@@ -250,13 +251,6 @@ npm start
 ```
 
 
-## 🆘 Support
-
-For support and questions:
-- Create an issue in the GitHub repository
-- Contact the development team
-- Check the documentation for common solutions
-
 ## 🔮 Roadmap
 
 ### Upcoming Features
@@ -277,6 +271,12 @@ For support and questions:
 - [ ] CDN integration
 - [ ] Load balancing
 - [ ] Microservices architecture
+
+
+### Platform 
+<img width="728" alt="Screenshot 2025-06-26 000915" src="https://github.com/user-attachments/assets/e4373958-f42b-4f62-9602-ce1faaa6c2f2" />
+
+
 
 ---
 
