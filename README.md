@@ -1,5 +1,4 @@
 <img width="946" alt="Screenshot 2025-06-26 000846" src="https://github.com/user-attachments/assets/95f658fc-1461-4a78-9de5-61bc220dcafd" />
-# AI Recruit - Intelligent Resume Parsing & Recruitment Platform
 
 [![React](https://img.shields.io/badge/React-19.0.0-blue.svg)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-green.svg)](https://nodejs.org/)
@@ -12,6 +11,9 @@
 ## 🚀 Overview
 
 AI Recruit is a comprehensive recruitment platform that leverages artificial intelligence and machine learning to transform the hiring process. The platform combines advanced resume parsing, intelligent job-candidate matching, and automated assessment tools to help recruiters and HR professionals make data-driven hiring decisions.
+
+
+<img width="728" alt="Screenshot 2025-06-26 000915" src="https://github.com/user-attachments/assets/e4373958-f42b-4f62-9602-ce1faaa6c2f2" />
 
 ### Key Features
 
@@ -274,12 +276,3 @@ npm start
 
 
 ### Platform 
-<img width="728" alt="Screenshot 2025-06-26 000915" src="https://github.com/user-attachments/assets/e4373958-f42b-4f62-9602-ce1faaa6c2f2" />
-
-
-
----
-
-**Built with ❤️ using React, Node.js, Python, and AI/ML technologies**
-
-*Transform your recruitment process with the power of artificial intelligence.*
