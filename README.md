@@ -154,6 +154,12 @@ npm start
 3. **Skills Assessment**: Take automated skill evaluations
 4. **Performance Insights**: Receive detailed feedback and recommendations
 
+<img width="728" alt="Screenshot 2025-06-26 000915" src="https://github.com/user-attachments/assets/e4373958-f42b-4f62-9602-ce1faaa6c2f2" />
+<img width="593" alt="Screenshot 2025-06-26 000954" src="https://github.com/user-attachments/assets/e80bdefb-4194-41cc-a353-3091ff75c696" />
+<img width="719" alt="Screenshot 2025-06-26 001015" src="https://github.com/user-attachments/assets/425f535c-e10a-4624-929c-3cb4b2f21d64" />
+
+
+
 ## 🔧 API Endpoints
 
 ### Authentication
@@ -188,6 +194,9 @@ npm start
 - **Technical Assessments**: Create coding and technical challenges
 - **Soft Skills Evaluation**: Behavioral and situational questions
 - **Adaptive Difficulty**: Questions based on candidate level
+
+<img width="536" alt="Screenshot 2025-06-26 001042" src="https://github.com/user-attachments/assets/a58e1498-8d08-4536-af83-a3953a0a3617" />
+
 
 ## 📊 Performance Metrics
 
