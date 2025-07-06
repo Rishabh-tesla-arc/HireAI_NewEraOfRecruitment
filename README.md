@@ -198,6 +198,8 @@ npm start
 - **Adaptive Difficulty**: Questions based on candidate level
 
 <img width="536" alt="Screenshot 2025-06-26 001042" src="https://github.com/user-attachments/assets/a58e1498-8d08-4536-af83-a3953a0a3617" />
+<img width="689" alt="Screenshot 2025-06-26 001102" src="https://github.com/user-attachments/assets/712f34c5-6a96-4e13-931a-9f56cabd928f" />
+
 
 
 ## 📊 Performance Metrics
